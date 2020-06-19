@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/arcmena/discord-ui-clone?color=7289da&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/arcmena/discord-ui-clone?color=7289da&style=for-the-badge)
 
-This is a simple UI clone from the Discord APP.
+This is a simple UI clone from the Discord APP, for study porposes.
 ![image](https://user-images.githubusercontent.com/57734796/85096373-84ef3200-b1ca-11ea-928e-1e5ef0eb1e98.png)
 
 ## Getting Started
